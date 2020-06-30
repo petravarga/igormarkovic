@@ -1,0 +1,288 @@
+#welcomepage {
+  background-color: #46b7b9;
+  color: #fafafa;
+}
+
+#mainpage {
+  background-color: #fafafa;
+  color: #87dfd6;
+}
+
+#workpage {
+  background-color: #87dfd6;
+  color: #fafafa;
+}
+
+#cocktailspage {
+  background-color: #fafafa;
+  color: #87dfd6;
+}
+
+#contactpage {
+  background-color: #87dfd6;
+  color: #fafafa;
+  text-align: center;
+}
+
+#footerpage {
+  background-color: #46b7b9;
+  color: #fafafa;
+  text-align: center;
+  padding-top: 30px;
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+  padding: 50px 60px;
+  width: 80%;
+  line-height: 3rem;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  padding: 50px 0px;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+}
+
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.liqbart {
+  color: #fafafa;
+  position: absolute;
+  margin-left: 780px;
+  margin-top: 80px;
+  transform: rotate(20deg);
+  font-family: 'Nosifer', cursive;
+}
+
+.liqbart:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.clickimg {
+  position: absolute;
+  margin-left: 780px;
+  margin-top: 90px;
+}
+
+.container-fluid {
+  padding: 0% 15% 10%;
+  padding-bottom: 50px;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.wlcmimg1 {
+  width: 30%;
+  transform: rotate(10deg);
+  margin-top: 100px;
+  border-style: dashed;
+  border-width: 2px;
+}
+
+.wlcmimg2 {
+  margin-top: 100px;
+  border-style: dashed;
+  border-width: 2px;
+  width: 30%;
+  margin-top: 250px;
+}
+
+.wlcmimg3 {
+  margin-top: 0px;
+  border-style: dashed;
+  border-width: 2px;
+  width: 35%;
+  transform: rotate(10deg);
+}
+
+.imgcont {
+  width: 50%;
+}
+
+.icon {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 300px;
+  transform: rotate(20deg);
+}
+
+.icon2 {
+  position: absolute;
+  transform: rotate(-20deg);
+  margin-top: 450px;
+  margin-left: 550px;
+}
+
+.icon3 {
+  position: absolute;
+  transform: rotate(20deg);
+  margin-top: 480px;
+}
+
+.eduimg {
+ margin-left: 200px;
+ margin-right: 200px;
+ padding: 20px 20px;
+ border-style: dashed;
+ border-color: #87dfd6;
+}
+
+.edup {
+  width: 90%;
+  text-align: center;
+  padding: 7% 15% 7%;
+}
+
+.bart710 {
+  color: #46b7b9;
+}
+
+.bart710:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.masterimage {
+  width: 50%;
+  margin-left: 140px;
+  border-style: dashed;
+  border-color: #87dfd6;
+  margin-top: 50px;
+}
+
+.masterinfo {
+  text-align: center;
+  padding: 20%;
+}
+
+.cv {
+  text-align: center;
+}
+
+.cvlink {
+  color: #87dfd6;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.cvlink:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.workimg {
+  width: 70%;
+  margin-left: 65px;
+  margin-top: 20px;
+  border-style: dashed;
+  border-color: #fafafa;
+}
+
+.workinfo {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.worklink {
+  color: #2f9296;
+}
+
+.worklink:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.cocktailinfo {
+  text-align: center;
+  padding-right: 180px;
+  line-height: 2rem;
+}
+
+.cocktailimage {
+  margin-left: 180px;
+  border-style: dashed;
+  border-color: #87dfd6;
+}
+
+.cocktailtitle {
+  padding-right: 180px;
+  padding-bottom: 30px;
+}
+
+.crantitl {
+  padding-right: 100px;
+  padding-bottom: 30px;
+}
+
+.cranimg {
+  width: 90%;
+  margin-left: 90px;
+  border-style: dashed;
+  border-color: #87dfd6;
+}
+
+.craninfo {
+  text-align: center;
+  line-height: 2rem;
+  padding-right: 100px;
+  padding-left: 30px;
+}
+
+.milkytitl {
+padding-right: 80px;
+padding-bottom: 30px;
+}
+
+.milkyimg {
+  width: 80%;
+  margin-left: 100px;
+  border-style: dashed;
+  border-color: #87dfd6;
+}
+
+.milkyinfo {
+  text-align: center;
+  line-height: 2rem;
+  padding-right: 50px;
+}
+
+.contp {
+  text-align: center;
+  padding-bottom: 4%;
+  font-size: 1.5rem;
+}
+
+.contactlink {
+  color: #fafafa;
+  padding: 3%;
+}
+
+.contactlink:hover {
+  color: black;
+  text-decoration: none;
+}
