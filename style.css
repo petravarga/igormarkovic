@@ -230,7 +230,7 @@ p {
   border-style: dashed;
   border-color: #87dfd6;
   margin-bottom: 30px;
-  margin-left: 60px;
+  margin-left: 10px;
 }
 
 .cocktailtitle {
@@ -247,7 +247,7 @@ p {
   border-style: dashed;
   border-color: #87dfd6;
   margin-bottom: 30px;
-  margin-left: 30px;
+  margin-left: 10px;
 }
 
 .craninfo {
@@ -267,7 +267,7 @@ padding-bottom: 30px;
   border-style: dashed;
   border-color: #87dfd6;
   margin-bottom: 30px;
-  margin-left: 60px;
+  margin-left: 20px;
 }
 
 .milkyinfo {
