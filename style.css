@@ -145,17 +145,18 @@ p {
 }
 
 .eduimg {
- margin-left: 200px;
- margin-right: 200px;
  padding: 20px 20px;
  border-style: dashed;
  border-color: #87dfd6;
+ width: 70%;
+ margin-left: 70px;
 }
 
 .edup {
   width: 90%;
   text-align: center;
   padding: 7% 15% 7%;
+  margin-left: 30px;
 }
 
 .bart710 {
@@ -169,10 +170,11 @@ p {
 
 .masterimage {
   width: 50%;
-  margin-left: 140px;
+  margin-left: 130px;
   border-style: dashed;
   border-color: #87dfd6;
   margin-top: 50px;
+  padding: 0;
 }
 
 .masterinfo {
@@ -219,19 +221,20 @@ p {
 
 .cocktailinfo {
   text-align: center;
-  padding-right: 180px;
+  padding: auto;
   line-height: 2rem;
 }
 
 .cocktailimage {
-  margin-left: 180px;
+  margin: auto;
   border-style: dashed;
   border-color: #87dfd6;
+  margin-bottom: 30px;
+  margin-left: 60px;
 }
 
 .cocktailtitle {
-  padding-right: 180px;
-  padding-bottom: 30px;
+  padding: auto;
 }
 
 .crantitl {
@@ -241,9 +244,10 @@ p {
 
 .cranimg {
   width: 90%;
-  margin-left: 90px;
   border-style: dashed;
   border-color: #87dfd6;
+  margin-bottom: 30px;
+  margin-left: 30px;
 }
 
 .craninfo {
@@ -260,9 +264,10 @@ padding-bottom: 30px;
 
 .milkyimg {
   width: 80%;
-  margin-left: 100px;
   border-style: dashed;
   border-color: #87dfd6;
+  margin-bottom: 30px;
+  margin-left: 60px;
 }
 
 .milkyinfo {
@@ -287,11 +292,11 @@ padding-bottom: 30px;
   text-decoration: none;
 }
 
-
 @media (max-width: 1028px) {
   .wlcmimg1 , .wlcmimg2 , .wlcmimg3 {
     transform: rotate(0);
-    width: 90%;
+    width: 30%;
+    margin-top: auto;
   }
 
   .icon, .icon2, .icon3 {
@@ -301,4 +306,10 @@ padding-bottom: 30px;
   .liqbart, .clickimg {
     display: none;
   }
+
+  .cocktailinfo {
+    
+  }
+
+  
 }
